@@ -3,7 +3,14 @@ body {
   background: #66CDAA
 }
 
+#titulo {
+  
+font-size: 80px; text-align: center
+
+}
+
 p {
+  
   text-align: center;
 
 }
