@@ -1,27 +1,56 @@
+.titulos-centralizados {
+  text-align: center;
+}
 
-body {
+#logo {
+  width: 60%;
+  margin: auto;
+  display: block;
+
+
+}
+
+#principal {
   background: #66CDAA
 }
 
-#titulo {
-  
-font-size: 80px; text-align: center
-
+#bordao {
+  font-size: 50px;
+  text-align: center;
+  color: #000000
 }
 
-#bordao {
-  
-font-size: 40px
-  
+#nossaloja {
+  text-align: center
 }
 
 p {
-  
   text-align: center;
-
 }
 
-em strong
-{
-  color: #008BAA
+.produtos {
+  background: #50BB88;
+  text-align: center;
+}
+
+#listprod{
+  font-size: 50px;
+  color: #FFFFFF
+}
+
+ul {
+  display: inline-block;
+  vertical-align: top;
+  width: 20%;
+  margin-right: 10%;
+}
+
+.itens {
+  font-style: italic;
+}
+
+.ftroupa {
+  width: 400px;
+  margin-left: 100px
+
 }
