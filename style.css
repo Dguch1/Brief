@@ -29,13 +29,13 @@ p {
 }
 
 .produtos {
-  background: #50BB88;
+  background: #5BEFFF;
   text-align: center;
 }
 
 #listprod{
   font-size: 50px;
-  color: #5BEFFF
+  color: #50BB88
 }
 
 ul {
