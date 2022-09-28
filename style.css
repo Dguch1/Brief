@@ -1,0 +1,65 @@
+body {
+  background: #000000
+}
+
+.titulos-centralizados {
+  text-align: center;
+  color: #FFFFFF
+}
+
+#logo {
+  width: 10%;
+  margin: auto;
+  display: block;
+
+
+}
+
+#principal {
+  background: #000000
+}
+
+#bordao {
+  font-size: 50px;
+  text-align: center;
+  color: #FFFFFF;
+  background: #FF6F20;
+}
+
+#nossaloja {
+  text-align: center
+  color: #FFFFFF
+}
+
+p {
+  text-align: center;
+  color: #FFFFFF
+}
+
+.produtos {
+  background: #FF6F20;
+  text-align: center;
+}
+
+#listprod{
+  font-size: 50px;
+  color: #FFFFFF
+}
+
+ul {
+  display: inline-block;
+  vertical-align: top;
+  width: 20%;
+  margin-right: 10%;
+}
+
+.itens {
+  font-style: italic;
+  color: #FFFFFF
+}
+
+.ftroupa {
+  width: 400px;
+  margin-left: 100px
+
+}
