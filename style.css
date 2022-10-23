@@ -1,65 +1,53 @@
-body {
-  background: #000000
-}
+<!DOCTYPE html>
+<html lang="pr-br">
 
-.titulos-centralizados {
-  text-align: center;
-  color: #FFFFFF
-}
+<head>
 
-#logo {
-  width: 10%;
-  margin: auto;
-  display: block;
+  <title> CARWASH </title>
+  <meta chaset = "UTF - 8">
+  <link rel ="stylesheet" href="index.css"/>
 
 
-}
+</head>
 
-#principal {
-  background: #000000
-}
+  <body>
 
-#bordao {
-  font-size: 50px;
-  text-align: center;
-  color: #FFFFFF;
-  background: #FF6F20;
-}
+    <header>
+      <h1 class="titulos-centralizados">CARWASH</h1>
+    </header>
 
-#nossaloja {
-  text-align: center
-  color: #FFFFFF
-}
+    <div class="principal" >
+      <img id="logo" src="logo.jpg">
+          <h2 class="titulos-centralizados" id="bordao"> <em><strong> Venha lavar já! aqui no CARWASH </strong></em> </h2>
+          <h3 class="titulos-centralizados" id="nossaloja"> Nossa Loja </h3>
 
-p {
-  text-align: center;
-  color: #FFFFFF
-}
+              <p> Nossa loja visa trazer o melhor da limpeza automotiva para os nossos clientes, com profissionais qualificados para o serviço, nós usamos
+              produtos da melhor qualidade no mercado, e os equipamentos mais técnológicos da atualidade. Venha fazer uma visita aqui no CARWASH, estaremos
+              esperando por você </p>
+              <p> <strong> O CARWASH fica localizado na avenida Rui Barbosa, centro São José dos Pinhais, 2332 </p>
+    </div class="principal">
 
-.produtos {
-  background: #FF6F20;
-  text-align: center;
-}
+     <div class="produtos">
+      <h4 id= "listprod"> <strong>Produtos</strong></h4>
+      <ul>
+        <li class="itens">Chaveiros</li>
+        <li class="itens">Aromatizante Automotivo</li>
+        <li class="itens">Limpador De Retrovisor</li>
+        <li class="itens">Suporte Para Celular</li>
+        <li class="itens">Alarme</li>
+        <li class="itens">Adesivos</li>
+        <li class="itens">Capa Para Volante</li>
+        <li class="itens">Adaptador Para Carregador</li>
+        <li class="itens">Pneus</li>
+        <li class="itens">Rodas</li>
+        <li class="itens">Espelhos</li>
+      </ul>
 
-#listprod{
-  font-size: 50px;
-  color: #FFFFFF
-}
 
-ul {
-  display: inline-block;
-  vertical-align: top;
-  width: 20%;
-  margin-right: 10%;
-}
 
-.itens {
-  font-style: italic;
-  color: #FFFFFF
-}
+     </div>
 
-.ftroupa {
-  width: 400px;
-  margin-left: 100px
+</body>
 
-}
+
+<html>
