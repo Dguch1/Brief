@@ -4,11 +4,12 @@ body {
 
 .titulos-centralizados {
   text-align: center;
-  color: #191970
+  color: #191970;
+  font-family: sans-serif;
 }
 
 #logo {
-  width: 40%;
+  width: 15%;
   margin: auto;
   display: block;
 
@@ -23,27 +24,33 @@ body {
   font-size: 50px;
   text-align: center;
   color: #191970;
-  background: #00BFFF;
+  background: #00FFFF;
 }
 
 #nossaloja {
-  text-align: center
-  color: #191970
+  text-align: center;
+  color: #191970;
+  font-family: sans-serif;
+
 }
 
 p {
   text-align: center;
-  color: #191970
+  color: #191970;
+  font-family: sans-serif;
+  font-weight: bolder;
 }
 
 .produtos {
-  background: #00BFFF;
+  background: #00FFFF;
   text-align: center;
+  font-family: sans-serif;
 }
 
 #listprod{
   font-size: 50px;
-  color: #191970
+  color: #191970;
+  font-family: sans-serif;
 }
 
 ul {
@@ -54,13 +61,13 @@ ul {
 }
 
 .itens {
-  font-style: italic;
-  color: #191970
+  color: #191970;
+  font-family: sans-serif;
+  text-decoration: none;
+  text-transform: uppercase;
 }
 
-.ftroupa {
-  width: 400px;
-  margin-left: 100px
+#interno {
+width: 400px
 
 }
-
