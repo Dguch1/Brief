@@ -68,6 +68,7 @@ ul {
 }
 
 #interno {
-width: 400px
+width: 400px;
+  border-radius: 50%
 
 }
